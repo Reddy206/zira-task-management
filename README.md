@@ -1,6 +1,7 @@
 # zira-task-management
 
-#Design a system like Jira.
+# Design a system like Jira.
+
 It should have the following functionalities :
 
 User should be able to create Task of type Story, Feature, Bugs.
